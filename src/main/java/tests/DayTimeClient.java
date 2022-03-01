@@ -1,5 +1,4 @@
-import com.sun.org.apache.bcel.internal.classfile.Unknown;
-
+package tests;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
