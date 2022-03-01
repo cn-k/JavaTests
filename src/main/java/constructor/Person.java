@@ -12,3 +12,4 @@ public class Person {
         this.mail=mail;
     }
 }
+//
